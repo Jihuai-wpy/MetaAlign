@@ -5,7 +5,7 @@ This is the official repository for "MetaAlign: Align Large Language Models with
 <p align="center">
     <img src="imgs/dialog_template.png" width="50%"> <br>
     <br>
-    Illustration of the previous alignment framework and our proposed MetaAlign framework.
+    Examples of the commonly used dialog template (top) and our three-tier dialog template (bottom).
 </p>
 
 
